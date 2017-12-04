@@ -1,1 +1,3 @@
 Hello, it's Team Rosie!
+Working though git fundamentals..
+oh wait, forgot something!
