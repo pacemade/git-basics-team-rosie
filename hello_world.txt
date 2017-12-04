@@ -2,3 +2,4 @@ Hello, it's Team Rosie!
 Working though git fundamentals..
 oh wait, forgot something!
 changing username
+This change was made locally.
