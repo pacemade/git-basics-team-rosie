@@ -3,3 +3,4 @@ Working though git fundamentals..
 oh wait, forgot something!
 changing username
 This change was made locally.
+This change was made by Betty (remotely)
